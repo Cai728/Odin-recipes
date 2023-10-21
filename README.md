@@ -1,0 +1,1 @@
+This project will be a recipe website using HTML. The skills I will exhibit are the basic use of HTML, such as <p>, <em>, <strong>, <h1, h2...>, <ul> & <ol>. Also, Git will be used for the staging and commits.
